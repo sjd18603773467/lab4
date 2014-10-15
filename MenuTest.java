@@ -1,8 +1,3 @@
-package menu_test;
-
-import java.awt.*;
-import java.awt.event.*;
-
 public class MenuTest {
 	private Frame f = new Frame("menu");
 	private MenuBar mb = new MenuBar();

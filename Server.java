@@ -1,11 +1,5 @@
 package Server;
 
-import java.awt.*;
-import java.io.*;
-import java.net.*;
-import java.util.Date;
-import java.awt.event.*;
-
 public class Server {
 	private static Frame f = new Frame("serve");
 	private static Label label = new Label("Users List:");

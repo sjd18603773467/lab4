@@ -1,8 +1,5 @@
 package pop_menu_test;
 
-import java.awt.*;
-import java.awt.event.*;
-
 public class PopupMenuTest {
 	private TextArea ta = new TextArea(4, 30);
 	private Frame f = new Frame("PopupMenu");
